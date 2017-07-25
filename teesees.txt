@@ -1,0 +1,14 @@
+<span id="a">TobiasChe</span>:<span id="b">~</span><span id="c">$</span> finger tobias.che@outlook.com<br/><br/>
+<p>...</p>
+<pre>
+pub      0C/A3E2F8B1 2017-07-22
+uid                  Tobias Che <tobias.che@outlook.com>
+sub      0e/772873CB 2017-07-22
+sub      0C/9CC2568C 2017-07-22
+</pre>
+<span id="c">$</span>
+Hi, I'm Tobias Che.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>Amongst many other pursuits, I have been researching a variety of languages, methodologies, hardware,software and philosophies involving all manner of things in, on or about the world wide web for a little over 20 years now.</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj --><br>
+<p>I'm the founder and CEO of <a href="http://down-networks.github.io">Down Networks</a> and <a href="https://getkya.com">several other short abd mid-lived projects over</a>.</p><!- oqwipjefqwioefjwioqfjoiqwjfeioqwjefoi -->
+<p>I love to read, listen to music, and travel.</p><!-- owlsqweoifjqwoefijqwoeifjqwoefijwef -->
+If you would like to get in touch with me, whether it be for tech support, a business venture, or to just say hi<!-- slightdelayhere-->, feel free to send me an email or a tweet.<!-- longlongcomment --> My email address is: <a href="mailto:tobias.che@outlook.com">tobias.che_at_outlook.com</a> and my Twitter is: <a href="http://twitter.com/tobiasche">@tobiasche</a>.
+<p>And if you haven't already, be sure to check out my tech publication <a href="http://www.besttechie.com">http://www.besttechie.com</a> and SEO startup <a href="https://g.com">https://.com</a>.</p>
